@@ -1,0 +1,29 @@
+{
+  "name": "slides-working-abroad",
+  "homepage": "https://github.com/paulodiovani/slides-working-abroad",
+  "authors": [
+    "Paulo Diovani <paulo@diovani.com>"
+  ],
+  "description": "Working Abroad: Paulo Diovani conta sua experiência indo à trabalho para o exterior pela primeira vez.",
+  "main": "index.html",
+  "keywords": [
+    "work",
+    "job",
+    "usa"
+  ],
+  "license": "CC-BY-NC-SA",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "reveal.js": "^3.5.0",
+    "bigtext": "^1.0.1",
+    "prism": "^1.8.3"
+  }
+}
