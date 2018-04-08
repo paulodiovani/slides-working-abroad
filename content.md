@@ -1,6 +1,6 @@
 # Working Abroad
 
-_Paulo Diovani conta sua experiência indo à trabalho para o exterior pela primeira vez._
+_My first time working in the USA._
 
 <small>Version 0.1.0</small>
 
