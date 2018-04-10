@@ -84,7 +84,7 @@ Photo: Grand Canyon Southern Rim
 
 ----
 
-<!-- .slide: data-background="url(img/godaddy.png)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
+<!-- .slide: data-background="url(img/godaddy.jpg)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
 
 Note:
 But how about work?
@@ -94,3 +94,71 @@ But how about work?
 Most of my impressions are directed to godaddy and not all USA companies.
 
 Photo: GoDaddy main hall.
+
+====
+
+### Working culture
+
+- Flexible schedule
+  - Mostly from 9:00am to 6:00pm
+- It's fine to _WFH_
+- You decide your days off
+- No overtime
+
+Note:
+Workers usually has no long vacations
+
+====
+
+### Infrastructure
+
+- Good to great equipment
+- Comfortable meeting rooms
+- Lots of play / amusement areas
+
+====
+
+<!-- .slide: data-background="url(img/godaddyfun.jpg)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
+
+Note:
+We had some play areas at godaddy.
+
+- Cheers for the slide
+
+====
+
+<!-- .slide: data-background-video="img/igor.mp4" data-background-video-loop="true" data-background-video-muted="true" data-background-size="contain" data-background-position="center" -->
+
+Note:
+Lots of fun!
+
+(actually employees never really use these)
+
+====
+
+### People
+
+- Tem diversity
+
+You will easily be working with people
+from all around the globe.
+
+Note:
+Colleagues from many different places, with different cultures.
+
+- Alan is from China
+- Paul is from Australia
+- Previous CTOs in Stack Commerce was from Thailand
+
+====
+
+### Expertise
+
+- Doesn't differ from Brazilians developers at all
+- Focus in quality
+- Lots of automated tests
+
+Note:
+As Matias L. says:
+
+_Não perdemos em nada para os/as devs de fora!_
