@@ -40,6 +40,18 @@ It was near 26hrs among flights and airports.
 
 ====
 
+<!-- .slide: data-background="url(img/arizona.jpg)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
+
+Note:
+AZ is a f*** desert.
+
+With temperatures among 40°c in Summer.
+But it has a nice view.
+
+Image source: elitepersonalfinance.com
+
+====
+
 <!-- .slide: data-background="url(img/priceav.jpg)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
 
 Note:
