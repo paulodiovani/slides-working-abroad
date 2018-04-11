@@ -29,6 +29,15 @@ GNU/Linux user since 2005.</small>
 [code-logo]: img/codeminer42.png
 [code-site]: http://codeminer42.com/
 
+====
+
+## Contents
+
+- How is ~~USA~~ Arizona like?
+- The company
+- Challenges and Income
+- How do I get there?
+
 ----
 
 <!-- .slide: data-background="url(img/flight.jpg)" data-background-size="cover" data-background-repeat="no-repeat" data-background-position="center" -->
@@ -150,10 +159,12 @@ Lots of fun!
 
 ### People
 
+- Being polite
+
 - Tem diversity
 
-You will easily be working with people
-from all around the globe.
+    You will easily be working with people
+    from all around the globe.
 
 Note:
 Colleagues from many different places, with different cultures.
@@ -174,3 +185,98 @@ Note:
 As Matias L. says:
 
 _Não perdemos em nada para os/as devs de fora!_
+
+----
+
+### Challenges
+
+- Language
+
+    ...and idioms 😕❔
+
+- Timezones
+
+- I miss Brazilian food 😞
+
+Note:
+Jet lag can make you a mess
+
+====
+
+### 💰 Income
+
+In general, U.S. companies **pays better**
+for software developers.
+
+Note:
+I'm actually a vendor.
+
+This comes from some friends, and...
+
+- This is _my_ point of view
+- It is considering the Dollar price
+
+
+----
+
+## How do I get there
+
+# 🤔
+
+====
+
+**English language** is a must.
+
+- Have english lessons
+- Practice with native speakers
+- _Accumulate flight hours 📺_
+
+Note:
+A foreign language is the most important.
+
+====
+
+- Passport and Visa
+- Linked In
+- GitHub
+
+====
+
+Get a contract.
+
+- Apply to jobs
+- Work as a freelancer
+- Work for a 3rd party (like me)
+
+Note:
+Which one suits you better.
+
+Notice that some companies apply tests for selection.
+
+====
+
+- Don't be afraid of making mistakes
+- Ask, and ask again
+
+Note:
+- ask
+    - Prevent confusion, make sure you understand
+
+----
+
+### Conclusions
+
+- It's not hard at all
+- Just as work in Brazil
+- Depends only on you
+
+====
+
+![we want you](img/wewantyou.jpg)
+
+**become@codeminer42.com**
+
+Note:
+In conclusion, it depends only on you.
+
+Plus, we are hiring.
