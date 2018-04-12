@@ -5,7 +5,14 @@
     "Paulo Diovani <paulo@diovani.com>"
   ],
   "description": "Working Abroad: My first time working in the USA.",
-  "main": "index.html",
+  "main": [
+    "css/custom.css",
+    "img/*.{jpg,png,svg,gif,mp4}",
+    "js/*.js",
+    "content.md",
+    "cover.jpg",
+    "index.html"
+  ],
   "keywords": [
     "work",
     "job",
@@ -23,7 +30,6 @@
   "dependencies": {
     "jquery": "^3.2.1",
     "reveal.js": "^3.5.0",
-    "bigtext": "^1.0.1",
     "prism": "^1.8.3"
   }
 }
